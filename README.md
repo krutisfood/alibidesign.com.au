@@ -64,7 +64,7 @@ backend:
   name: github
   repo: owner/repo # Path to your Github repository
   branch: master # Branch to update (master by default)
-  
+
   ...
 ```
 When a user navigates to `/admin` she'll be prompted to login, and once authenticated
@@ -81,7 +81,7 @@ log in.
 
 ### Find out more and contribute
 
-Visit the [Netlify CMS](https://github.com/netlify/netlify-cms/) to find out more and contribute. 
+Visit the [Netlify CMS](https://github.com/netlify/netlify-cms/) to find out more and contribute.
 
 ## Basic Concepts
 
